@@ -20,7 +20,18 @@
 ### Defining Our System
  The user will asked question incessantly in the second and more fassinating round of this quizgame in C. When the user's monetary award which as 1 million dollars, the game is over. There are four alternatives for each questions: A, B, C, and D. Because there are no negative indications, the user's accrued cash money will not be removed for incorrect responses.
 ## SWOT Analysis
-![alt text]() 
+### Strength:
+* Strong and Active Current Market 
+* Collaborating with Consumer to Create a new project
+### Weakness:
+* Little Advertising done outside Gaming Community
+* Consumer outside of Gaming Sphere have little interaction with razar product
+### Opportunity:
+* Expand consumer Market by advertising on Tv,Internet,Direct mail and though Interactive feeds
+* Sell products in stores such as best buy 
+### Threats:
+* Larger companies with broader reach may enter market
+* May not be accepted by general consumer 
 ## 4W's and 1'H
 ### Who
 * Researchers and a mathematicians
